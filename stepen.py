@@ -1,6 +1,6 @@
 n = int(input())
 
 x = 1
-while x < n:
+while x <= n:
     print(x)
     x = x * 2
